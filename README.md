@@ -1,6 +1,6 @@
 # Topic-modeling
 
-**Summary:** Identifying the topics or subjects of the document by accounting the frequency of topic and untimately classifying documents based on their topics.
+**Summary:** Identifying the different topics/ subjects in the document by accounting the frequency of occurance of those topics and thereby ultimately classifying documents into their topics.
 
 
 [Topic modeling](https://en.wikipedia.org/wiki/Topic_model) is a statistical model to discover semantic structures in text body. The "topics" produced by topic modeling techniques are clusters of similar words. A document typically concerns multiple topics in different proportions; thus, in a document that is 10% about cats and 90% about dogs, there would probably be about 9 times more dog words than cat words. In this example, I have created a Topic modeling for 2 wikipedia web pages using Latent Dirichlet allocation (LDA).
