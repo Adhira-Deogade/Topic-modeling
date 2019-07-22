@@ -7,7 +7,7 @@
 [Natural Language Toolkit (NLTK)](https://www.nltk.org/) provides text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries for Python.
 
 ---
-### I Scraping web-pages for their content:
+### I. Scraping web-pages for their content:
 
   1. Wikipedia [Lego](https://en.wikipedia.org/wiki/Lego)
   2. Wikipedia [Oil](https://en.wikipedia.org/wiki/Oil)
@@ -60,15 +60,14 @@ where "i" is the element in the document list
 Stop words are those words which appear in higher frequency is the entore document and doesn't prove to be of much importance is identifying the topics in document. These words are well defined in the library "stop_words". Some examples are: and, the, or, is, ., ,, ?.
 
 ---
-### VII. Stemming tokens:
+### VII. Stemming tokens [Ref](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html):
 
 Stemming helps to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form, thereby shortening the lookup, and normalizing sentences. Many variations of words carry the same meaning. For instance:
-[Ref](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
 
 ---
-### VIII. Bag-of-Words (BoW):
+### VIII. Bag-of-Words ([BoW](https://en.wikipedia.org/wiki/Bag-of-words_model)):
 
-First, create a dictionary function, which assigns unique id to each token in document text and collects relevant statistics(*count*). Create a bag-of-words from this dictionary which results in a text matrix of occurance of word. The output includes those words which are present in the list [Ref](https://en.wikipedia.org/wiki/Bag-of-words_model)
+First, create a dictionary function, which assigns unique id to each token in document text and collects relevant statistics(*count*). Create a bag-of-words from this dictionary which results in a text matrix of occurance of word. The output includes those words which are present in the list.
 
 ---
 ### IX. LDA model:
