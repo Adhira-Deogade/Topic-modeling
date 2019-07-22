@@ -7,7 +7,7 @@
 [Natural Language Toolkit (NLTK)](https://www.nltk.org/) provides text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries for Python.
 
 ---
-I. *Scraping web-pages for their content:*
+## *Scraping web-pages for their content:*
 
   1. Wikipedia [Lego](https://en.wikipedia.org/wiki/Lego)
   2. Wikipedia [Oil](https://en.wikipedia.org/wiki/Oil)
