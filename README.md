@@ -11,6 +11,7 @@
 
   1. Wikipedia [Lego](https://en.wikipedia.org/wiki/Lego)
   2. Wikipedia [Oil](https://en.wikipedia.org/wiki/Oil)
+  
   **[Steps](https://github.com/Adhira-Deogade/Web-Scraping)**
 
 ---
@@ -61,7 +62,7 @@ where "i" is the element in the document list
 Stop words are those words which appear in higher frequency is the entore document and doesn't prove to be of much importance is identifying the topics in document. These words are well defined in the library "stop_words". Some examples are: and, the, or, is, ., ,, ?.
 
 ---
-### VII. Stemming tokens [Ref](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html):
+### VII. Stemming tokens [?](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html):
 
 Stemming helps to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form, thereby shortening the lookup, and normalizing sentences. Many variations of words carry the same meaning. For instance:
 
