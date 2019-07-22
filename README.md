@@ -11,6 +11,7 @@
 
   1. Wikipedia [Lego](https://en.wikipedia.org/wiki/Lego)
   2. Wikipedia [Oil](https://en.wikipedia.org/wiki/Oil)
+  **[Steps](https://github.com/Adhira-Deogade/Web-Scraping)**
 
 ---
 ### II. Storing the content in text files:
