@@ -1,5 +1,8 @@
 # Topic-modeling
 
+**Summary:** Identifying the topics or subjects of the document by accounting the frequency of topic and untimately classifying documents based on their topics.
+
+
 [Topic modeling](https://en.wikipedia.org/wiki/Topic_model) is a statistical model to discover semantic structures in text body. The "topics" produced by topic modeling techniques are clusters of similar words. A document typically concerns multiple topics in different proportions; thus, in a document that is 10% about cats and 90% about dogs, there would probably be about 9 times more dog words than cat words. In this example, I have created a Topic modeling for 2 wikipedia web pages using Latent Dirichlet allocation (LDA).
 
 [Latent Dirichlet allocation (LDA)](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) is a generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. For example, if observations are words collected into documents, it posits that each document is a mixture of a small number of topics and that each word's presence is attributable to one of the document's topics.
